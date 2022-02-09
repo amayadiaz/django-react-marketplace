@@ -1,1 +1,1 @@
-# django-react-marketplace
+# marketplace-api-django
